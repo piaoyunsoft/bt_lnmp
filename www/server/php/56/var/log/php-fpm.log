@@ -1,0 +1,12 @@
+[10-Oct-2019 16:39:25] NOTICE: fpm is running, pid 2167
+[10-Oct-2019 16:39:25] NOTICE: ready to handle connections
+[10-Oct-2019 16:39:25] NOTICE: Reloading in progress ...
+[10-Oct-2019 16:39:25] NOTICE: reloading: execvp("/www/server/php/56/sbin/php-fpm", {"/www/server/php/56/sbin/php-fpm", "--daemonize", "--fpm-config", "/www/server/php/56/etc/php-fpm.conf", "--pid", "/www/server/php/56/var/run/php-fpm.pid"})
+[10-Oct-2019 16:39:25] NOTICE: using inherited socket fd=8, "/tmp/php-cgi-56.sock"
+[10-Oct-2019 16:39:25] NOTICE: using inherited socket fd=8, "/tmp/php-cgi-56.sock"
+[10-Oct-2019 16:39:25] NOTICE: fpm is running, pid 2178
+[10-Oct-2019 16:39:25] NOTICE: ready to handle connections
+[10-Oct-2019 16:39:55] NOTICE: Finishing ...
+[10-Oct-2019 16:39:55] NOTICE: exiting, bye-bye!
+[10-Oct-2019 16:40:05] NOTICE: fpm is running, pid 2248
+[10-Oct-2019 16:40:05] NOTICE: ready to handle connections

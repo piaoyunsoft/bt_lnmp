@@ -1,0 +1,17 @@
+--2019-10-10 15:46:12--  http://103.224.251.67/stop.html
+Connecting to 103.224.251.67:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3460 (3.4K) [text/html]
+Saving to: '/www/server/stop/index.html'
+
+     0K ...                                                   100% 2.68M=0.001s
+
+2019-10-10 15:46:12 (2.68 MB/s) - '/www/server/stop/index.html' saved [3460/3460]
+
+Starting Bt-Panel... Bt-Panel (pid 30279) already running
+Starting Bt-Tasks... Bt-Tasks (pid 975) already running
+Stopping Bt-Tasks...	[32mdone[0m
+Stopping Bt-Panel...	[32mdone[0m
+Starting Bt-Panel.......	[32mdone[0m
+Starting Bt-Tasks... 	[32mdone[0m
+/bin/sh: line 1:  1788 Terminated              /bin/bash install_soft.sh 1 install php 5.6 &>/tmp/panelExec.log

@@ -1,0 +1,10 @@
+rm: cannot remove '/www/wwwlogs/waf': Is a directory
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+Starting Bt-Panel... Bt-Panel (pid 40 105) already running
+Starting Bt-Tasks... Bt-Tasks (pid 118) already running
+[2019-10-10 16:41:09 +0000] [40] [INFO] Starting gunicorn 19.9.0
+[2019-10-10 16:41:09 +0000] [40] [INFO] Listening at: http://0.0.0.0:8888 (40)
+[2019-10-10 16:41:09 +0000] [40] [INFO] Using worker: geventwebsocket.gunicorn.workers.GeventWebSocketWorker
+[2019-10-10 16:41:09 +0000] [103] [INFO] Booting worker with pid: 103
+Starting MySQL SUCCESS! 
