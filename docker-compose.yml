@@ -1,5 +1,5 @@
 baotamiaban:
-  image: piaoyun/bt_lnmp
+  image: piaoyun/bt_lnmp:1.0
   ports:
     - 20:20
     - 21:21
