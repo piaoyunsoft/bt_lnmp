@@ -6,9 +6,16 @@
 
 ## 启动容器
 
+* 方法1：
+
 ```
-docker run -i -t -d --name bt_lnmp_test -p 20:20 -p 21:21 -p 80:80 -p 443:443 -p 888:888 -p 8888:8888 --privileged=true -v $PWD/www:/www piaoyun/bt_lnmp:1.0
-docker exec -it bt_lnmp_test bash ./start.sh
+docker run -i -t -d --name bt_lnmp_test -p 20:20 -p 21:21 -p 80:80 -p 443:443 -p 888:888 -p 8888:8888 --privileged=true -v $PWD/www:/www piaoyun/bt_lnmp:1.0 bash /start.sh
+```
+
+* 方法2：
+
+```
+docker-compose up -d
 ```
 
 ##  面板入口：http://IP:8888/admin

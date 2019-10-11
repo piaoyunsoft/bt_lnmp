@@ -10,4 +10,5 @@ baotamiaban:
   volumes:
     - ./www:/www
   privileged: true
-  #command: bash /start.sh
+  command: bash /start.sh
+  container_name: bt_lnmp_test
